@@ -1,0 +1,13 @@
+export { default as ScheduleIcon } from '@material-ui/icons/Today';
+export { default as UnpaidIcon } from '@material-ui/icons/ErrorOutline';
+export { default as Starred } from '@material-ui/icons/Star';
+export { default as UnscheduledIcon } from '@material-ui/icons/CalendarToday';
+export { default as RushIcon } from '@material-ui/icons/DirectionsRun';
+export { default as PastDueIcon } from '@material-ui/icons/Update';
+export { default as InspectionIcon } from '@material-ui/icons/EmojiTransportation';
+export { default as DueSoonIcon } from '@material-ui/icons/Alarm';
+export { default as InProgressIcon } from '@material-ui/icons/Timelapse';
+export { default as InboxIcon } from '@material-ui/icons/Inbox';
+export { default as InsightsIcon } from '@material-ui/icons/Equalizer';
+export { default as UnassignedIcon } from '@material-ui/icons/AssignmentLate';
+export { default as CreditCardIcon } from '@material-ui/icons/CreditCard';
